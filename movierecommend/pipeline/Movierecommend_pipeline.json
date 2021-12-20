@@ -59,7 +59,7 @@
 				}
 			},
 			{
-				"name": "Ratings File",
+				"name": "Ratings Schema",
 				"type": "GetMetadata",
 				"dependsOn": [],
 				"policy": {
@@ -72,7 +72,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataset": {
-						"referenceName": "RatingsData",
+						"referenceName": "RatingsSchema",
 						"type": "DatasetReference"
 					},
 					"fieldList": [],
