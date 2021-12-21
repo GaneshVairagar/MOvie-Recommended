@@ -1,0 +1,7 @@
+{
+	"name": "AzureDatabricksLinkedService",
+	"properties": {
+		"type": "AzureDatabricks",
+		"annotations": []
+	}
+}
