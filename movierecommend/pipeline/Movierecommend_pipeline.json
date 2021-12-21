@@ -118,17 +118,11 @@
 				"name": "If Condition1",
 				"type": "IfCondition",
 				"dependsOn": [],
-				"userProperties": []
-			},
-			{
-				"name": "If Condition2",
-				"type": "IfCondition",
-				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
 					"ifTrueActivities": [
 						{
-							"name": "Successful Copy File",
+							"name": "Copy data1",
 							"type": "Copy",
 							"dependsOn": [],
 							"policy": {
